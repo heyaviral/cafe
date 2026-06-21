@@ -51,9 +51,9 @@ export default function Contact() {
                     <h3 className="font-semibold">Address</h3>
 
                     <p className="mt-2 text-neutral-600">
-                      125 Artisan Street
+                      Percy Heights
                       <br />
-                      Downtown District
+                      Gomti Nagar
                       <br />
                       Lucknow, India
                     </p>
