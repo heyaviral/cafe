@@ -109,15 +109,15 @@ export default function Footer() {
               <div className="flex gap-3">
                 <MapPin size={18} className="mt-1 text-[#C8A96B]" />
                 <p>
-                  125 Artisan Street
+                  Percy Heights
                   <br />
-                  Downtown District
+                  Gomti Nagar
                 </p>
               </div>
 
               <div className="flex gap-3">
                 <Phone size={18} className="text-[#C8A96B]" />
-                <p>+1 (555) 123-4567</p>
+                <p>+91 9876543210</p>
               </div>
 
               <div className="flex gap-3">
